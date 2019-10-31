@@ -8,7 +8,7 @@
 ### Files for production
 
 - [PCB](https://github.com/ai03-2725/Contra)
-- [Case files](https://github.com/beekeeb/ContraPlates/releases)
+- [Case files in AI, SVG, DXF](https://github.com/beekeeb/ContraPlates/releases)
 
 ## License
 
