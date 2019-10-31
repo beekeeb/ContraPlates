@@ -1,14 +1,16 @@
-# Contra Case Files
-A low cost case for Contra
+# Contra case with alternative formats for laser cutting
 
-#### In light of recent claims that I am 100% liable for any of my open source PCBs, I am adding this disclaimer.
-#### I provide these PCBs as a reference for designing keyboard PCBs. Using them within your projects will require a will to do research of one's own and to learn the workings of them, potentially fixing issues if they exist.
-# I provide these PCBs without liability and without any guarantees regarding functionality, as expressed in the MIT license under which all of these PCBs are licensed.
+## Dimensions
 
-### Features
-- Alps or MX switches compatibility.
-- Supports split or unified spacebar.
+- plate size: 230.982mm × 76.202mm
+- holes: 2.40mm, 4.00mm in diameter
 
 ### Files for production
-- Main PCB: Check the PCB repo [here](https://github.com/ai03-2725/Contra).
-- Case files: Grab the latest gerber files [here](https://github.com/ai03-2725/ContraPlates/tree/master/Production%20Files).
+
+- [PCB](https://github.com/ai03-2725/Contra)
+- [Case files](https://github.com/beekeeb/ContraPlates/releases)
+
+## License
+
+- The Contra PCBs are licensed under the MIT License.
+- The alternative formats created based on the Contra PCBs are licensed under CC0 1.0 Universal (CC0 1.0)
